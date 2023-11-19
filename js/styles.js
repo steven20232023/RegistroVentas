@@ -23,6 +23,8 @@ $(function(){
             $('#next_items').attr('disabled', true)
             $('#next_items').removeClass('s4')
         }
+
+        
     })
 
     $('#return_items').click(function(){
